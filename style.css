@@ -1,0 +1,33 @@
+h1 {
+    color:aqua;
+    margin-left:  580px;
+}
+
+h2{
+    color:blue
+}
+
+.header{
+    background-color:black;
+    display:flex;
+    justify-content: space-between  ;
+}
+
+.games{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    background-color: lightcoral;
+}
+.siteDescription{
+    background-color: lightgreen;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.icons{
+    background-color: #3080aa;
+    display: flex;
+    justify-content: flex-end;
+}
